@@ -1,0 +1,10 @@
+[
+  {"id": "L001", "name": "Acer Aspire 7 A715", "brand": "Acer", "category": "laptop", "price": 58990, "ram_gb": 16, "storage_gb": 512, "rating": 4.4, "in_stock": true},
+  {"id": "L002", "name": "ASUS TUF Gaming F15", "brand": "ASUS", "category": "laptop", "price": 67990, "ram_gb": 16, "storage_gb": 512, "rating": 4.5, "in_stock": true},
+  {"id": "L003", "name": "HP Pavilion 15", "brand": "HP", "category": "laptop", "price": 64990, "ram_gb": 16, "storage_gb": 512, "rating": 4.3, "in_stock": true},
+  {"id": "L004", "name": "Lenovo IdeaPad Slim 3", "brand": "Lenovo", "category": "laptop", "price": 42990, "ram_gb": 8, "storage_gb": 512, "rating": 4.1, "in_stock": true},
+  {"id": "L005", "name": "Dell Inspiron 15", "brand": "Dell", "category": "laptop", "price": 61990, "ram_gb": 16, "storage_gb": 1024, "rating": 4.2, "in_stock": true},
+  {"id": "L006", "name": "MSI Thin GF63", "brand": "MSI", "category": "laptop", "price": 72990, "ram_gb": 16, "storage_gb": 512, "rating": 4.4, "in_stock": true},
+  {"id": "P001", "name": "Samsung Galaxy S24", "brand": "Samsung", "category": "smartphone", "price": 64999, "ram_gb": 8, "storage_gb": 256, "rating": 4.5, "in_stock": true},
+  {"id": "L008", "name": "Lenovo LOQ 15", "brand": "Lenovo", "category": "laptop", "price": 69990, "ram_gb": 16, "storage_gb": 512, "rating": 4.6, "in_stock": true}
+]

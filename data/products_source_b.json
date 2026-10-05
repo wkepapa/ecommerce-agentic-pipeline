@@ -1,0 +1,9 @@
+[
+  {"id": "L001", "name": "Acer Aspire 7 A715", "brand": "Acer", "category": "laptop", "price": 58990, "ram_gb": 16, "storage_gb": 512, "rating": 4.1, "in_stock": true},
+  {"id": "L002", "name": "ASUS TUF Gaming F15", "brand": "ASUS", "category": "laptop", "price": 67990, "ram_gb": 16, "storage_gb": 512, "rating": 4.5, "in_stock": true},
+  {"id": "L005", "name": "Dell Inspiron 15", "brand": "Dell", "category": "laptop", "price": 62490, "ram_gb": 16, "storage_gb": 1024, "rating": 4.2, "in_stock": true},
+  {"id": "L009", "name": "ASUS Vivobook 16", "brand": "ASUS", "category": "laptop", "price": 54990, "ram_gb": 16, "storage_gb": 512, "rating": 4.2, "in_stock": true},
+  {"id": "L010", "name": "HP 15s", "brand": "HP", "category": "laptop", "price": 49990, "ram_gb": 16, "storage_gb": 256, "rating": 4.0, "in_stock": true},
+  {"id": "L011", "name": "Apple MacBook Air M2", "brand": "Apple", "category": "laptop", "price": 99900, "ram_gb": 16, "storage_gb": 512, "rating": 4.7, "in_stock": true},
+  {"id": "L012", "name": "Dell Inspiron 14", "brand": "Dell", "category": "laptop", "price": 57990, "ram_gb": 16, "storage_gb": 512, "rating": null, "in_stock": true}
+]

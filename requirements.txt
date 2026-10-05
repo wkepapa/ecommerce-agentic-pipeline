@@ -1,0 +1,3 @@
+# Core pipeline uses Python standard library.
+# Streamlit is required for the web demonstration.
+streamlit>=1.40,<2.0

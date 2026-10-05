@@ -1,0 +1,7 @@
+[
+  {"id": "L003", "name": "HP Pavilion 15", "brand": "HP", "category": "laptop", "price": 64990, "ram_gb": 16, "storage_gb": 512, "rating": 4.3, "in_stock": true},
+  {"id": "L008", "name": "Lenovo LOQ 15", "brand": "Lenovo", "category": "laptop", "price": 69990, "ram_gb": 16, "storage_gb": 512, "rating": 4.6, "in_stock": true},
+  {"id": "L013", "name": "Lenovo ThinkBook 14", "brand": "Lenovo", "category": "laptop", "price": 66990, "ram_gb": 16, "storage_gb": 512, "rating": 4.3, "in_stock": false},
+  {"id": "L014", "name": "Acer Nitro V 15", "brand": "Acer", "category": "laptop", "price": 68990, "ram_gb": 16, "storage_gb": 512, "rating": 4.2, "in_stock": true},
+  {"id": "L015", "name": "Infinix INBook Y2 Plus", "brand": "Infinix", "category": "laptop", "price": 31990, "ram_gb": 8, "storage_gb": 512, "rating": 3.9, "in_stock": true}
+]

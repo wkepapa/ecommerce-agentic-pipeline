@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/logs/*.jsonl
+outputs/traces/*.json
+outputs/reports/*.md
+outputs/reports/*.json

@@ -1,0 +1,4 @@
+{
+  "priority": ["source_a", "source_b", "source_c"],
+  "note": "Left-most source wins when two sources disagree about the same product field."
+}
